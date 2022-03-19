@@ -1,6 +1,6 @@
 
 <center><h1>GTAV Cars API</h1><br >
-<p>Simple PHP Api to return GTAV Vehicles pictures</p>
+<p>Simple PHP Api to return GTAV Vehicles pictures directly from Rockstar website</p>
 
 
 <br >
