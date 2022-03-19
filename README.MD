@@ -12,5 +12,5 @@ Upload PHP file on your server, then acess that using vehicle name at end</br>
 Ex: veiculo=t20</p>
 
 
-<p><a href=http://bresodev.mygamesonline.org/gta/authh.php?veiculo=adder"> Example using ADDER car </a></p> <br >
+<p><a href=http://bresodev.mygamesonline.org/gta/authh.php?veiculo=adder> Example using ADDER car </a></p> <br >
 </center>
